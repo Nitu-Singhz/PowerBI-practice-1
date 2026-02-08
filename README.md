@@ -5,6 +5,8 @@
 This repository contains a beginner-level Power BI practice dashboard created to understand data cleaning, transformation, basic DAX measures, and visual analysis using an Excel dataset.
 
 🎯 Objective
+[excel sheet](https://github.com/Nitu-Singhz/PowerBI-practice-1/blob/main/Employee_reimbursement_dataset.xlsx)
+
 
 Practice Power Query transformations
 
@@ -38,7 +40,7 @@ Amount ≥ 1000 → INR
 
 Amount < 1000 → USD
 
-Else → EUR
+Else → EURO
 
 Converted all amounts to INR using approximate exchange rates:
 
@@ -92,7 +94,7 @@ This dashboard is a practice exercise, not a production-level solution
 
 📁 File Included
 
-Reimbursement_Practice_Dashboard.pbix
+[Reimbursement_Practice_Dashboard.pbix](https://github.com/Nitu-Singhz/PowerBI-practice-1/blob/main/first%20dash%20board%20for%20reimbursement%20practice.pbix)
 
 🚀 Next Steps
 
